@@ -1,0 +1,13 @@
+{
+  "name": "com.jzzpackage",
+  "displayName": "jzzpackage",
+  "description": "jzz_制作测试package",
+  "version": "1.0.5",
+  "unity": "2019.2",
+  "license": "MIT",
+  "author": "jzz",
+  "keywords": [
+    "jzzpackage"
+  ]
+}
+

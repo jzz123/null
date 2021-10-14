@@ -1,0 +1,16 @@
+{
+    "name": "framework.test.editor",
+    "references": [
+        "GUID:68f88f4a24dff854485a08e2b25bf6d3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

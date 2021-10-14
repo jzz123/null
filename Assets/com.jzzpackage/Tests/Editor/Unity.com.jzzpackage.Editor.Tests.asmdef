@@ -1,0 +1,16 @@
+{
+    "name": "Unity.com.jzzpackage.Editor.Tests",
+    "references": [
+        "GUID:0edb439b225e69142951522fa295355e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
